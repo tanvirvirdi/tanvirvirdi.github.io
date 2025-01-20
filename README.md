@@ -5,4 +5,5 @@ About Me:
 -   I play soccer and like working out
 -   I love traveling
 Websites I Find Interesting 
--   {Youtube} (https://www.youtube.com/)- I find youtube interesting because of the diverse content for everyone 
+-   {Youtube} (https://www.youtube.com/)- I find Youtube interesting because of the diverse content for all age groups. 
+-   {Khan Academy} (https://www.khanacademy.org/)- I find Khan Academy interesting because it provides high quality edcucation for all age groups. 
