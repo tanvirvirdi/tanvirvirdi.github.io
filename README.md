@@ -1,7 +1,8 @@
 Tanvir Virdi tsvirdi@my.wake.tech.edu
 This is my college school account
 This repository will hold assginments, notes, and projects
-  # About Me: I am 21 years old studying Web Design
+  # About Me: 
+  * I am 21 years old studying Web Design
   ## My Interests:
   * I play soccer and like working out
   * I love traveling
