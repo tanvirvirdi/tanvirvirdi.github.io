@@ -7,6 +7,6 @@ This repository will hold assginments, notes, and projects
   * I play soccer and like working out
   * I love traveling
   ## Websites I Recommend:
- * [Youtube] (https://www.youtube.com/) I find Youtube interesting because of the diverse content for all age groups. 
- * [Khan Academy] (https://www.khanacademy.org/) I find Khan Academy interesting because it provides high quality edcucation for all age groups. 
+ * [Youtube](https://www.youtube.com/) I find Youtube interesting because of the diverse content for all age groups. 
+ * [Khan Academy](https://www.khanacademy.org/) I find Khan Academy interesting because it provides high quality edcucation for all age groups. 
 Updated README with About Me section
