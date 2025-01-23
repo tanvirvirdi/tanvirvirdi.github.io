@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD;
-title: Number Guessing Game
+Number Guessing Game
 flowchart LR
     A[Start Game] --> B[Set Range is 1-100];
     B--> C[Prompt User to Guess Number];
