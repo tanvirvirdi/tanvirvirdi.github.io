@@ -5,5 +5,5 @@ flowchart TD;
     C--> D[Set Out Answer Box];
     D--> E[If Vaild: Compare Guess With Random Number];
     E--> G[If Invaild Display Error: Enter Valid Number];
-    G-->H;
+    G--> H;
 ```
