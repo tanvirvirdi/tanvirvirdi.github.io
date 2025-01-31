@@ -41,11 +41,11 @@ Wenger claims that the "beauty and prestige of a tournament" depends on its qual
 - **Dispute/Differing Viewpoints:** While adding teams would increase the number of games it still creates a problem. The more poor quality teams would be rewarded as the World Cup group table has 4 teams in each group with the top 2 advancing so increases the number of teams would give more chances to qualify to the next round. 
 
 - **Question 9:** What is the best World Cup goal ever scored?  
-- **Answer:** In my opinion the goal scored by James Rodriguez for Colombia agianst Uruguay placed 4th on the list is the greatest World Cup Goal. 
+- **Answer:** In my opinion the goal scored by James Rodriguez for Colombia agianst Uruguay placed 4th on the list is the greatest World Cup Goal. He stunned the crowd with a exceptional strike, controlling the ball with his chest just ouside the D, then does a unstoppable volly into the back of the Uruguray's teams net. 
 - **Source:** [World Cup 2022: Top 10 greatest World Cup goals](https://www.bbc.com/sport/football/63119496)  
-- **Dispute/Differing Viewpoints:**
+- **Dispute/Differing Viewpoints:** Others believe Maradona's goal against England in the 1986 World Cup was better. Shearer and Lineker the players at the time who played for England in this match described it as "genius" and "your simply in awe". 
 
 - **Question 10:** Has VAR improved the World Cup, or has it made things worse?  
-- **Answer:**
+- **Answer:** 
 - **Source:** [VAR in the World Cup - Analysis by The Guardian](https://www.theguardian.com/)  
 - **Dispute/Differing Viewpoints:** 
