@@ -33,7 +33,7 @@ Wenger claims that the "beauty and prestige of a tournament" depends on its qual
 
 - **Question 7:** Does the World Cuo cause more unity or division ?
 - **Answer:**  
-- **Source:**
+- **Source:** [FIFA World Cup unites the world and helps global causes](https://inside.fifa.com/campaigns/football-unites-the-world/news/fifa-world-cup-unites-the-world-and-helps-global-causes)
 - **Dispute/Differing Viewpoints:** 
 
 - **Question 8:** Should the World Cup allow more teams to compete?  
