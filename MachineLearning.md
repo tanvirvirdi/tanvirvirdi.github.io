@@ -31,8 +31,8 @@ Wenger claims that the "beauty and prestige of a tournament" depends on its qual
 - **Source:** [Duke- The 1934 World Cup ](https://sites.duke.edu/wcwp/research-projects/football-and-politics-in-europe-1930s-1950s/mussolinis-football/the-1934-world-cup/) (Keywords: "World Cup controversial moments")  
 - **Dispute/Differing Viewpoints:** In truth very little is known about the events of the actual games. Without television, excpet for the ones present at the match actually know the details do the match. The reality of the games were largly shaped by media personalities and press that reported on the matches. (Keywords:
 
-- **Question 7:** Does the World Cuo cause more unity or division ?
-- **Answer:**  
+- **Question 7:** Does the World Cup cause more unity or division ?
+- **Answer:**  In my opinion the World Cup brings more unity to the world by uniting together countires from all over the world to play one sport- soccer. Soccer is a celebration of joy, hope, and health proving that it is bigger than a sport. FIFA states that soccer shows benefits of physical activity, team spirit, and respect. 
 - **Source:** [FIFA World Cup unites the world and helps global causes](https://inside.fifa.com/campaigns/football-unites-the-world/news/fifa-world-cup-unites-the-world-and-helps-global-causes)
 - **Dispute/Differing Viewpoints:** 
 
