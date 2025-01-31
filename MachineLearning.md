@@ -34,7 +34,7 @@ Wenger claims that the "beauty and prestige of a tournament" depends on its qual
 - **Question 7:** Does the World Cup cause more unity or division ?
 - **Answer:**  In my opinion the World Cup brings more unity to the world by uniting together countires from all over the world to play one sport- soccer. Soccer is a celebration of joy, hope, and health proving that it is bigger than a sport. FIFA states that soccer shows benefits of physical activity, team spirit, and respect. 
 - **Source:** [FIFA World Cup unites the world and helps global causes](https://inside.fifa.com/campaigns/football-unites-the-world/news/fifa-world-cup-unites-the-world-and-helps-global-causes)
-- **Dispute/Differing Viewpoints:** 
+- **Dispute/Differing Viewpoints:** While FIFA and the World Cup creates global connection some see FIFA more on the politics side on deciding which country should host the World Cup and who should not. 
 
 - **Question 8:** Should the World Cup allow more teams to compete?  
 - **Answer:** In my opinion yes they should allow more teams to compete in the World Cup. If your a country that never made it to the World Cup the chances of qualifying are more likely as more teams will be added to the competition. Even with the expansion of the teams from 32 to 48 included the days of the tournment would still be only 32 the same amount of days as the original. 
