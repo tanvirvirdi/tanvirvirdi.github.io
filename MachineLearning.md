@@ -20,6 +20,7 @@
 - **Source:** [ESPN- A World Cup every two years? The pros and cons of FIFA chief Arsene Wenger's blueprint] (https://www.espn.com/soccer/story/_/id/37620428/a-world-cup-every-two-years-pros-cons-fifa-chief-arsene-wenger-blueprint)  
 - **Dispute/Differing Viewpoints:** If the World Cup happens every 2 years would give more opportunities for players and countries to play more often. 
 Wenger claims that the "beauty and prestige of a tournament" depends on its quality rather than how often it occurs and suggests that playing every two years will give the world high-class international fixtures and memorable tournaments.
+
 - **Question 5:** Which World Cup team was the greatest of all time?  
 - **Answer:** In my opinion the Brazilian squad of 1970 is the greatest World Cup team in history. This squad had legendary players such as Pelé, Jairzinho, Tostão, Rivelino, and Carlos Alberto. They were victorious 4-1 in the final against Itly. This victory made Brazil's national team the first nation in history to win the World Cup three times. 
 - **Source:** [SportsNet- The Top 10 World Cup Teams Of All-Time](https://www.goal.com/)  
@@ -31,8 +32,52 @@ Wenger claims that the "beauty and prestige of a tournament" depends on its qual
 - **Dispute/Differing Viewpoints:** In truth very little is known about the events of the actual games. Without television, excpet for the ones present at the match actually know the details do the match. The reality of the games were largly shaped by media personalities and press that reported on the matches. 
 
 - **Question 7:** Does the World Cup favor certain teams or regions unfairly?  
-- **Answer:** In my opinion I think the World Cup does not favor certian teams or regions unfairly. 
-- **Source:** 
+- **Answer:** In my opinion I think the World Cup does not favor certian teams and treats certian regions fairly. The system splits the 32 teams divided by four into pots each team is placed into these pots accordingly. Each pot has thier own groups based on thier location and balance.
+ - **POT 1 (SEEDED TEAMS):**  
+    - Brazil  
+    - Spain  
+    - Germany  
+    - Argentina  
+    - Colombia  
+    - Belgium  
+    - Uruguay  
+    - Switzerland  
+
+  - **POT 2 (AFRICA/SOUTH AMERICA):**  
+    - Algeria  
+    - Cameroon  
+    - Ivory Coast  
+    - Ghana  
+    - Nigeria  
+    - Chile  
+    - Ecuador  
+    - Unseeded European team (to be determined)  
+
+  - **POT 3 (NORTH AND CENTRAL AMERICA/ASIA):**  
+    - Costa Rica  
+    - Honduras  
+    - Mexico  
+    - United States  
+    - Australia  
+    - Iran  
+    - Japan  
+    - South Korea  
+
+  - **POT 4 (EUROPE):**  
+    - Bosnia-Herzegovina  
+    - Croatia  
+    - England  
+    - France  
+    - Greece  
+    - Italy  
+    - Netherlands  
+    - Portugal  
+    - Russia  
+    - *(One team to be sent to Pot 2 on the day of the draw.)*
+
+Based on the orginzation of these pots it shows that the system is designed to show balance amoung countries and maintain excitement. 
+   
+- **Source:**: [The World Cup Draw Is Unfair. Here’s a Better Way.](https://www.nytimes.com/2014/06/05/upshot/the-world-cup-draw-is-unfair-heres-a-better-way.html)
 - **Dispute/Differing Viewpoints:** 
 
 - **Question 8:** Should the World Cup allow more teams to compete?  
@@ -45,7 +90,7 @@ Wenger claims that the "beauty and prestige of a tournament" depends on its qual
 - **Source:** [World Cup 2022: Top 10 greatest World Cup goals](https://www.bbc.com/sport/football/63119496)  
 - **Dispute/Differing Viewpoints:** Others believe Maradona's goal against England in the 1986 World Cup was better. Shearer and Lineker the players at the time who played for England in this match described it as "genius" and "your simply in awe". 
 
-- **Question 10:** Has VAR improved the World Cup, or has it made things worse?  
-- **Answer:** 
+- **Question 10:** Has the introduction of VAR improved referees' decision-making during the 2018 World Cup?  
+- **Answer:** In my opinion VAR has not improved referee decision making during the events of the 2018 World Cup. I beleive VAR takes away the humane aspect of the game and converts it more robotic. 
 - **Source:** [VAR in the World Cup - Analysis by The Guardian](https://www.theguardian.com/)  
-- **Dispute/Differing Viewpoints:** 
+- **Dispute/Differing Viewpoints:** While critics argue that VAR has not improved and takes away the referee's decisions others beleive VAR's accuracy leads to a more fairer game. 
